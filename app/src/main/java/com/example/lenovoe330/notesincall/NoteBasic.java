@@ -17,6 +17,6 @@ public class NoteBasic extends AppCompatActivity {
         TextView dateCreat = (TextView) findViewById(R.id.DateCreat);
         TextView dateModif = (TextView) findViewById(R.id.DateModif);
 
-        //coucou
+        //coucou"d"zd"ad
     }
 }
